@@ -1,0 +1,2 @@
+nama database di set minuman2
+nek meh admin buka localhost/thaitea/admin nickname sample pass 123 
